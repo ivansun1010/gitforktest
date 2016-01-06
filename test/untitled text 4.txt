@@ -8,5 +8,9 @@ adfasdfasd
 user:ivanforktest
 
 
+<<<<<<< HEAD
 user:ivansun1010
 
+=======
+user:ivansun1010
+>>>>>>> ivansun1010/master
